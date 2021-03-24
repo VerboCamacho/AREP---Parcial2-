@@ -1,5 +1,5 @@
 # AREP---Parcial2-
-##Verbo Julian Camacho Villamarin
+## Verbo Julian Camacho Villamarin
 # bitacora
 ## Primera parte crear la aplicación web
 1) Cree un proyecto java usando maven.
